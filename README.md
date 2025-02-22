@@ -1,10 +1,12 @@
 # Sentiment analysis of movie scripts from Hollywood
 
-This repository provides code and supplementary materials for the paper titled 'Longitudinal Abuse and Sentiment Analysis of Hollywood Oscar and Blockbuster Movie Dialogues using LLMs'.
-
-## Seminar
+ 
 
 ## Publication
+
+
+This repository provides code and supplementary materials for the paper: Chandra and Ren, 'Longitudinal Abuse and Sentiment Analysis of Hollywood Oscar and Blockbuster Movie Dialogues using LLMs, arXiv 2025: https://arxiv.org/abs/2501.13948
+
 
 ## Task Description
 
@@ -15,7 +17,7 @@ It examines changes in sentiment and abusive language in movie dialogues over 75
 ### Datasets
 
 Movies Subtitles:
-Subtitles from over 1,000 films, including Oscar-nominated films and the top 10 box-office hits, were collected. These films were categorized into four genres: Action, Comedy, Drama, and Thriller.
+Subtitles from over 1,000 films, including Oscar-nominated films and the top 10 box-office hits, were collected. These films were categorized into four genres: Action, Comedy, Drama, and Thriller. Our extracted data was published via Kaggle: https://www.kaggle.com/datasets/mlopssss/subtitles
 
 SenWave Dataset:
 This dataset includes sentiment-labeled tweets from the COVID-19 pandemic period. It is used to fine-tune our sentiment classification model for multi-label classification across emotions like optimism, anxiety, and anger. Additionally, the SenWave dataset from GitHub was utilised: 
@@ -42,7 +44,7 @@ Sentiment Polarity Trends (1950-2024)
 The graph below shows the trend of sentiment polarity in movie dialogues over time, with sentiment polarity scores ranging from -1 to 1, where positive numbers represent positive emotions and negative numbers represent negative emotions.
 
 Sentiment Weights by Decade
-The sentiment weights chart highlights the relative contribution of different emotions over the decades. Emotions like optimism, anger, and humor fluctuate in prominence across different time periods.
+The sentiment weights chart highlights the relative contribution of different emotions over the decades. Emotions like optimism, anger, and humour fluctuate in prominence across different periods.
 ![image](https://github.com/user-attachments/assets/fa7e93b1-ef34-4d89-96a0-b5118c5a6bc3)
 
 
@@ -58,8 +60,9 @@ Action films show a low level of abusive content, while thrillers in the 1950s h
 
 3. Emotional Sentiment Co-occurrence
    
-The heatmap below shows frequent co-occurrences of humor with anger, especially in comedies, reflecting the use of satire and conflict.
+The heatmap below shows frequent co-occurrences of humour with anger, especially in comedies, reflecting the use of satire and conflict.
 ![image](https://github.com/user-attachments/assets/958371b5-3b73-49b5-8da3-b4734c0e9816)
+
 
 
 

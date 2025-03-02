@@ -61,7 +61,7 @@ Action films show a low level of abusive content, while thrillers in the 1950s h
 3. Emotional Sentiment Co-occurrence
    
 The heatmap below shows frequent co-occurrences of humour with anger, especially in comedies, reflecting the use of satire and conflict.
-![image](https://github.com/user-attachments/assets/958371b5-3b73-49b5-8da3-b4734c0e9816)
+![image](https://github.com/sydney-machine-learning/sentimentanalysis-Hollywood/blob/main/RoBERTa_model_plot/sentimentdifference.png?raw=true)
 
 
 

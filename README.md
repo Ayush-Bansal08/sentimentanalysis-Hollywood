@@ -55,7 +55,7 @@ Abusive language frequency peaked in the 2000s and has since declined, reflectin
 
 Abusive Content Across Genres
 Action films show a low level of abusive content, while thrillers in the 1950s had the highest abusive word count.
-![image](https://github.com/user-attachments/assets/4c34ac95-fb90-4c18-8dec-e49dcab9cd34)
+![image]([https://github.com/user-attachments/assets/4c34ac95-fb90-4c18-8dec-e49dcab9cd34](https://github.com/sydney-machine-learning/sentimentanalysis-Hollywood/blob/main/HateBERT_model_plot/abusivewords.png))
 
 
 3. Emotional Sentiment Co-occurrence

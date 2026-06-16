@@ -1,5 +1,6 @@
 # .gitignore
 .venv/
+venv/
 coding/model/newBERTa_model/model.safetensors
 
 # --- Python generated artifacts (never source code; regenerated automatically) ---
